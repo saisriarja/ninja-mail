@@ -1,0 +1,20 @@
+#1 - Use latest version of Bootstrap css framework
+
+#2 - Use "Open Sans" fonts from google fonts
+
+#3 - Use jQuery library for functionality
+
+#4 - Please make sure that you have
+	1. Sticky Navigation
+	2. Bootstrap popup
+	3. Owl carousel slider
+	4. Basic form validation with jQuery/Javascript
+
+#5 - The design should be responsive [mobile + tablet]
+
+#6 - The code and folders should be structured properly
+
+
+Open the link below for the design
+https://www.figma.com/file/1UeRf1SbdLCLykMiQ9Ue8z/NinjaMail-(Community)?node-id=1%3A2
+:hover learn more:- https://nvidia.langoorqa.net/html/index.html
