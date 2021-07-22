@@ -157,6 +157,9 @@ header {
 .the-source-content {
     padding-top: 30px;
 }
+.the-source-content h2{
+    font-weight: 900;
+}
 
 .three-img {
     position: relative;
@@ -318,6 +321,7 @@ footer .footer-logo-1 {
     } */
     .middl-img-container h1 {
         font-size: 44px;
+        font-weight: 900;
     }
     .the-source-box-right {
         padding-top: 124px;
@@ -413,6 +417,7 @@ footer .footer-logo-1 {
     }
     .middl-img-container h1 {
         font-size: 50px;
+        font-weight: 800;
     }
     .the-source-img p {
         font-size: 13px;
@@ -471,6 +476,14 @@ footer .footer-logo-1 {
         position: absolute;
         bottom: -125px;
         left: 0;
+    }
+    .middl-img-container {
+        background: url(../images/video-mb-bg.png) no-repeat;
+        background-size: 100% 100%;
+    }
+    .middl-img-container h1{
+        font-size: 20px;
+        font-weight: 900;
     }
 }
 
@@ -661,7 +674,11 @@ a:hover {
     -webkit-transition: all 0.2s 0.4s ease-in-out;
     transition: all -0.8s 0.4s ease-in-out;
   }
-  
+  .text-holder{
+      position: absolute;
+      bottom: 0;
+      left: 25px;
+  }
   .hovereffect img {
     display: block;
     position: relative;
@@ -727,3 +744,4 @@ a:hover {
     -webkit-transition-delay: 0.3s;
     transition-delay: 0.3s;
   }
+  
