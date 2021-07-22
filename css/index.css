@@ -497,7 +497,6 @@ footer .footer-logo-1 {
 }
 
 button:focus {
-    border: none;
     outline: none;
 }
 
@@ -576,7 +575,6 @@ a:hover {
     vertical-align: middle;
     -webkit-transform: perspective(1px) translateZ(0);
     transform: perspective(1px) translateZ(0);
-    box-shadow: 0 0 1px rgb(0 0 0 / 0%);
     position: relative;
     overflow: hidden;
     -webkit-transition-property: color;

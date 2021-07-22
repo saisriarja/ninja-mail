@@ -42,7 +42,6 @@ $(document).ready(function(){
         
     });
     $('.contact-form').submit(function() {
-        // alert('hi');
         $flag = true;
         $(this).find('.required').each(function() {
             if ($(this).val() == "") {
